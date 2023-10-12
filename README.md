@@ -4,7 +4,7 @@
 
 `Fork` and `Clone` this application.
 
-There are at least 10 bugs in the code.
+There are at least 9 bugs in the code.
 
 Each Squad will make a list of as many bugs as they found.
 e.g.
