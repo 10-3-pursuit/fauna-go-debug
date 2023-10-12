@@ -2,6 +2,8 @@
 
 <img src="./assets/debug.jpg" width="500" height="300">
 
+`Fork` and `Clone` this application.
+
 There are at least 10 bugs in the code.
 
 Each Squad will make a list of as many bugs as they found.
