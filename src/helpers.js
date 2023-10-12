@@ -10,6 +10,6 @@ function writeJSONFile(path, fileName, data) {
   return writeFileSync(`${path}/${fileName}`, data, { encoding: "utf-8" });
 }
 
-module.exports = {
+module.export = {
   readJSONFile,
 };
