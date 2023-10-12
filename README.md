@@ -2,7 +2,7 @@
 
 <img src="./assets/debug.jpg" width="500" height="300">
 
-There are at least 9 mistakes in the code.
+There are at least 10 mistakes in the code.
 
 Each Squad will make a list of as many bugs as they found.
 e.g.
